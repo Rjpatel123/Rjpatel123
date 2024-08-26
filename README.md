@@ -8,7 +8,6 @@ I am specialize in querying and managing databases using SQL, performing data an
 My goal is to help organizations leverage their data to drive growth and optimize operations.
 
 * Connect with me on LinkedIn... https://www.linkedin.com/in/richa-patel-data-analyst/
-* Explore my Tableau profile : 📫 https://public.tableau.com/app/profile/namrata.s
 
 
 
